@@ -1,0 +1,45 @@
+h1,h2{
+    color: green;
+    font-size: 40px;
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+.title{
+    color: red;
+    font-size: 50px; 
+}
+.boxwrapper{
+    display: flex;
+    
+}
+.box{
+    margin-top: auto;
+    border: 9px solid greenyellow;
+    /* border: 3px dashed burlywood; */
+    width: 200px;
+    padding: 20px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+/* #el1 {
+    color:blue; */
+/* } */
+.active {
+    color:aqua;
+}
+button{
+    width: 250px;
+    height: 50px;
+}
+.ice{
+    color: red;
+    width: 150px;
+    height: 150px;
+}
